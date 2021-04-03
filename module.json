@@ -16,7 +16,7 @@
   "packs": [
     {
       "name": "mapas",
-      "label": "MapasKullack",
+      "label": "Mapas",
       "path": "/packs/mapas.db",
       "entity": "Scene"
     },
