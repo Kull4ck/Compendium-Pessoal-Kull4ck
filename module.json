@@ -1,24 +1,53 @@
 {
   "name": "compendium-pessoal-kull4ck",
-  "title": "Compendium-Pessoal-Kull4ck",
-  "description": "Compendium-Pessoal-Kull4ck",
-  "version": "0.0.4",
+  "title": "Compendium Pessoal do Kull4ck",
+  "description": "Um pack de itens pessoais do Kull4ck para usar em T20 e DnD5e.",
+  "version": "1.0",
   "author": "V. Kullack",
-  "authors": [
-    {
-      "name": "V. Kullack",
-      "email": "victor.gui.kullack@gmail.com",
-      "url": "https://github.com/Kull4ck"
-    }
-  ],
-  "minimumCoreVersion": "0.6.6",
+  "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.7.9",
+"dependencies": [
+{
+  "name": "token-attacher",
+  "manifest": "https://raw.githubusercontent.com/KayelGee/token-attacher/master/module.json"
+}
+],
   "packs": [
     {
-      "name": "mapas",
-      "label": "Mapas",
-      "path": "/packs/mapas.db",
+      "name": "MAD-caverns-maps",
+      "label": "Caverns",
+      "path": "/packs/mad-caverns-maps.db",
       "entity": "Scene"
+    },
+    {
+      "name": "MAD-curseoffrost-maps",
+      "label": "Curse of the Frostmaiden",
+      "path": "/packs/mad-curseoffrost-maps.db",
+      "entity": "Scene"
+    },
+    {
+      "name": "MAD-forestwild-maps",
+      "label": "Forest Wilderness",
+      "path": "/packs/mad-forestwild-maps.db",
+      "entity": "Scene"
+    },
+    {
+      "name": "MAD-mythicgreece-maps",
+      "label": "Mythic Greece",
+      "path": "/packs/mad-mythicgreece-maps.db",
+      "entity": "Scene"
+    },
+    {
+      "name": "MAD-urbanext-maps",
+      "label": "Urban Exteriors",
+      "path": "/packs/mad-urbanext-maps.db",
+      "entity": "Scene"
+    },
+    {
+      "name": "MAD-urbanext-actors",
+      "label": "UrbanEx Mod Tiles",
+      "path": "/packs/mad-urbanext-actors.db",
+      "entity": "Actor"
     },
     {
       "name": "inventorbkp",
