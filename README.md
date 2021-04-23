@@ -1,5 +1,4 @@
 # Compendium Pessoal do Kull4ck
-O Meu Compendium Pessoal:
 
 [x] Mapas (400+)
 
