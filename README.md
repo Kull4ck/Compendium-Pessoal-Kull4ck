@@ -2,6 +2,7 @@
 O Meu Compendium Pessoal:
 
 [x] Mapas (400+)
+
 [x] Extra T20 (Poderes Inventor, Heróis)
 
 ## Link:
