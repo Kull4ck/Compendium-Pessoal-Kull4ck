@@ -1,4 +1,15 @@
-# Compendium-Pessoal-Kull4ck
-O Meu Compendium Pessoal para t20
+# Compendium Pessoal do Kull4ck
+
+COMPENDIUM BACKUP PARA EU USAR EM MINHA MESA PESSOAL, ESSE COMPENDIUM NÃO É PARA SER COMPARTILHADO POR CONTER CONTEÚDO QUE FERE DIREITOS AUTORAIS. 
+
+[x] Mapas (400+)
+
+[x] Extra T20 (Poderes Inventor, Heróis)
+
+## INSTALAÇÃO:
+
+ESSE COMPENDIUM NÃO PODE SER INSTALADO DE FORMA AUTOMÁTICA POR LIMITAÇÕES DO FOUNDRY, FAÇA UMA INSTALAÇÃO MANUAL, BAIXANDO O ARQUIVO DO GITHUB E JOGANDO NA PASTA MODULES.
+
+## ATUALIZAÇÃO:
 
 https://raw.githubusercontent.com/Kull4ck/Compendium-Pessoal-Kull4ck/main/module.json
