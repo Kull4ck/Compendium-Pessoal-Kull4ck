@@ -2,7 +2,7 @@
   "name": "compendium-pessoal-kull4ck",
   "title": "Compendium Pessoal do Kull4ck",
   "description": "Um pack de itens pessoais do Kull4ck para usar em T20 e DnD5e.",
-  "version": "1.0",
+  "version": "1.2",
   "author": "V. Kullack",
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.7.9",
@@ -15,46 +15,65 @@
   "packs": [
     {
       "name": "MAD-caverns-maps",
-      "label": "Caverns",
+      "label": "Mapas Cavernas",
       "path": "/packs/mad-caverns-maps.db",
       "entity": "Scene"
     },
     {
       "name": "MAD-curseoffrost-maps",
-      "label": "Curse of the Frostmaiden",
+      "label": "Mapas Maldições e Lugares Gelados",
       "path": "/packs/mad-curseoffrost-maps.db",
       "entity": "Scene"
     },
     {
       "name": "MAD-forestwild-maps",
-      "label": "Forest Wilderness",
+      "label": "Mapas Natureza Selvagem",
       "path": "/packs/mad-forestwild-maps.db",
       "entity": "Scene"
     },
     {
       "name": "MAD-mythicgreece-maps",
-      "label": "Mythic Greece",
+      "label": "Mapas Místicos",
       "path": "/packs/mad-mythicgreece-maps.db",
       "entity": "Scene"
     },
     {
       "name": "MAD-urbanext-maps",
-      "label": "Urban Exteriors",
+      "label": "Mapas Urbanos",
       "path": "/packs/mad-urbanext-maps.db",
       "entity": "Scene"
     },
     {
       "name": "MAD-urbanext-actors",
-      "label": "UrbanEx Mod Tiles",
+      "label": "Telhas e Assets",
       "path": "/packs/mad-urbanext-actors.db",
       "entity": "Actor"
     },
     {
       "name": "inventorbkp",
-      "label": "InventorBKP",
+      "label": "Backup do Inventor",
       "system": "tormenta20",
       "path": "packs/inventorbkp.db",
       "entity": "Item"
+    },
+    {
+      "name": "herois",
+      "label": "Heróis",
+      "system": "tormenta20",
+      "path": "packs/herois.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "MAD-classicdun-2-maps",
+      "label": "Mapas Masmorras 2",
+      "path": "/packs/mad-classicdun-2-maps.db",
+      "entity": "Scene"
+    },
+    {
+      "name": "regras-ajuda-pessoal",
+      "label": "Ajuda & Regras  Pessoais",
+      "path": "/packs/regras-ajuda-pessoal.db",
+      "entity": "JournalEntry"
     }
   ],
   "url": "https://github.com/Kull4ck/Compendium-Pessoal-Kull4ck",
